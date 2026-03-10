@@ -120,7 +120,7 @@ require (
 	github.com/linkedin/goavro/v2 v2.10.0 // @grafana/grafana-backend-group
 	github.com/m3db/prometheus_remote_client_golang v0.4.4 // @grafana/grafana-backend-group
 	github.com/madflojo/testcerts v1.1.1 // @grafana/alerting-backend
-	github.com/magefile/mage v1.15.0 // @grafana/grafana-developer-enablement-squad
+	github.com/magefile/mage v1.16.0 // @grafana/grafana-developer-enablement-squad
 	github.com/matryer/is v1.4.1 // @grafana/grafana-as-code
 	github.com/mattn/go-isatty v0.0.20 // @grafana/grafana-backend-group
 	github.com/mattn/go-sqlite3 v1.14.22 // @grafana/grafana-backend-group
